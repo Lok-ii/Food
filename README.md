@@ -1,2 +1,2 @@
 # Food
-https://github.com/Lok-ii/Food
+https://lok-ii.github.io/Food
